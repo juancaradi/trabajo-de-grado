@@ -1,0 +1,39 @@
+﻿# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Resultados generados
+resultados/*
+!resultados/.gitkeep
+
+# Figuras generadas
+figuras/*
+!figuras/.gitkeep
+
+# Datos procesados / pesados
+datos/procesados/*
+datos/externos/*
+
+# Logs y temporales
+*.log
+*.tmp
+*.temp

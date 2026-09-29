@@ -1,0 +1,30 @@
+﻿# ============================================================
+# Trabajo de grado
+# Graphons + TDA + Teoría de Categorías + Machine Learning
+# Python 3.13
+# ============================================================
+
+# Cálculo científico
+numpy==2.4.1
+scipy==1.17.0
+
+# Manejo y análisis de datos
+pandas==3.0.0
+
+# Visualización
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Grafos y redes
+networkx==3.6.1
+
+# Machine Learning
+scikit-learn==1.8.0
+
+# Topological Data Analysis
+ripser==0.6.14
+persim==0.3.8
+
+# Jupyter / VS Code notebooks
+ipykernel==7.1.0
+ipywidgets==8.1.8
